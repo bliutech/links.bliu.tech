@@ -1,2 +1,2 @@
 # links
-Personal link shortner.
+Personal link shortener.
